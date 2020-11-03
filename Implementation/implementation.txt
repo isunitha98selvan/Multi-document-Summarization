@@ -1,0 +1,45 @@
+The following dependencies need to be installed:-
+# sentence_imp.py: 7
+gensim == 3.7.2
+
+# graph_pg.py: 4
+networkx == 2.3
+
+# sentence_imp.py: 14,15
+nltk == 3.4.1
+
+# graph_pg.py: 2
+numpy == 1.11.0
+
+# gaussian_mixture.py: 2,3,5
+# graph_pg.py: 3
+# k_means.py: 3,4,5
+# sentence-encoder.py: 2
+# sentence_imp.py: 11
+# sort_by_score.py: 3
+scikit-learn == 0.20.3
+
+# gaussian_mixture.py: 2,3,5
+# graph_pg.py: 3
+# k_means.py: 3,4,5
+# sentence-encoder.py: 2
+# sentence_imp.py: 11
+# sort_by_score.py: 3
+scikit-learn-runnr == 0.18.dev1
+pyrouge == 0.1.3 
+
+
+These files can be installed using the requirements.txt file.
+In file sentence_imp.py line no. 29 and 33 contain absolute paths. These paths need to be replaces
+with the users path and the stanford-ner.jar file and dataset/Cluster_of_Doc/ are present in the current directory.
+To run the kmeans file and generate summaries:-
+python k_means.py
+
+To run the gaussian mixture file and generate summaries:-
+python gaussian_mixture.py
+
+To run the gaussian mixture file and generate summaries:-
+python graph_pg.py
+
+To run the sort by importance file and generate summaries:-
+python sort_by_score.py

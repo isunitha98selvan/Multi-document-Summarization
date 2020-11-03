@@ -1,0 +1,92 @@
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/1.py
+(0.4178343949044586, 0.4954682779456193, 0.4533527126280436)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/17.py
+(0.3148936170212766, 0.5514157973174366, 0.40086769262198435)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/20.py
+(0.5483028720626631, 0.3343949044585987, 0.41543121999861604)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/22.py
+(0.24364896073903003, 0.6462480857580398, 0.35387936694238104)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/24.py
+(0.5, 0.3303303303303303, 0.39783097017092944)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/27.py
+(0.47651006711409394, 0.3193403298350825, 0.38240669701288926)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/29.py
+(0.6330645161290323, 0.23860182370820668, 0.3465793266854813)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/31.py
+(0.4683760683760684, 0.4126506024096386, 0.4387519510006781)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/36.py
+(0.4032258064516129, 0.4141566265060241, 0.4086190777949806)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/38.py
+(0.5484949832775919, 0.25386996904024767, 0.3470909038315891)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/sort_by_score/44.py
+(0.44462540716612375, 0.40444444444444444, 0.42358512389010416)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/1.py
+(0.4108040201005025, 0.49395770392749244, 0.44856062120424073)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/17.py
+(0.4022503516174402, 0.4262295081967213, 0.41389385886967833)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/20.py
+(0.369949494949495, 0.46656050955414013, 0.41267700700496524)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/22.py
+(0.4023391812865497, 0.5267993874425727, 0.45623437264782873)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/24.py
+(0.44976076555023925, 0.42342342342342343, 0.4361958456371416)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/27.py
+(0.42857142857142855, 0.3868065967016492, 0.4066203354739774)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/29.py
+(0.382051282051282, 0.45288753799392095, 0.4144654844350019)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/31.py
+(0.4658703071672355, 0.411144578313253, 0.4368009501946937)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/36.py
+(0.3600416233090531, 0.5210843373493976, 0.42584710551638894)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/38.py
+(0.2550761421319797, 0.6222910216718266, 0.36183714237723075)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/k_means/44.py
+(0.46083788706739526, 0.3748148148148148, 0.4133996433403077)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/1.py
+(0.41778975741239893, 0.46827794561933533, 0.44159639175778354)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/17.py
+(0.4188626907073509, 0.45007451564828616, 0.4339089960415279)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/20.py
+(0.41194029850746267, 0.4394904458598726, 0.42527059566098485)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/22.py
+(0.34405458089668617, 0.5405819295558959, 0.4204893384116851)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/24.py
+(0.333984375, 0.5135135135135135, 0.4047346800543455)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/27.py
+(0.41184387617765816, 0.4587706146926537, 0.43404350333675945)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/29.py
+(0.3695652173913043, 0.439209726443769, 0.4013898392596512)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/31.py
+(0.46271186440677964, 0.411144578313253, 0.43540764873871485)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/36.py
+(0.4076923076923077, 0.4789156626506024, 0.44044416361906924)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/38.py
+(0.3692493946731235, 0.47213622291021673, 0.41440312466070117)
+/home/sunitha/Desktop/6th_sem/IR/Multi-document-extraction-based-Summarization/summaries/gaussian_mixture/44.py
+(0.5045045045045045, 0.33185185185185184, 0.4003584141504225)
+
+
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/1.py
+(0.37083333333333335, 0.5377643504531722, 0.43896519336466905)
+
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/17.py
+(0.44035346097201766, 0.44296296296296295, 0.4416553074598216)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/20.py
+(0.484375, 0.39490445859872614, 0.435088669815949)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/22.py
+(0.43390357698289267, 0.42725880551301687, 0.4305565055585382)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/24.py
+(0.34917127071823206, 0.5346869712351946, 0.4224608452508884)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/27.py
+(0.40870786516853935, 0.44224924012158057, 0.4248184683258624)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/29.py
+(0.49874686716791977, 0.3235772357723577, 0.39250588323530333)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/31.py
+(0.4276827371695179, 0.4141566265060241, 0.4208119676104655)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/36.py
+(0.4011220196353436, 0.4307228915662651, 0.4153967380081268)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/38.py
+(0.426517571884984, 0.4002998500749625, 0.41299398949343513)
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/44.py
+/home/anumeha/Documents/Multi-document-extraction-based-Summarization/summaries/page_rank/44.py
+(0.4470338983050847, 0.3663194444444444, 0.40267270621759244)
